@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+.env
+.env.local
+
+# Ignore large generated or bulk asset folders
+server/images/
+public/data1/
+Recipe-Recommendation-System/
+
+# Ignore local download/log artifacts
+download_log2.txt
